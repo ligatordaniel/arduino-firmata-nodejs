@@ -16,6 +16,6 @@ inspirate in our sensei https://www.youtube.com/watch?v=CSHR1Cdo3dY&ab_channel=F
 # instructions
 * 1.donwload arduino IDE: `http://www.arduino.cc/en/Main/Software`.
 * 2-upload 'load-on-your-arduino' that is in the same folder as the sketch.
-* 3-install node_modules: `npm install` $npm install (you should use node 10.22.1, I recommend you to use the nvm to manage node versions).
-* 4-run the server: `node start` .
+* 3-install node_modules: `npm install` $npm install (you should use node 10.22.1 or probably doesn't work, I recommend you to use the nvm to manage node versions).
+* 4-run the server: `npm start`
 
